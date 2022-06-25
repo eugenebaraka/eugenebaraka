@@ -1,8 +1,9 @@
-- 👋 Hi, I’m Eugene Baraka
-- ✨ A Master's Student in Public Health at McGill University
-- 👀 Interested in Public Health Data Science
-- 🌱 Currently learning Python and Machine Learning
-- 💞️ Looking to collaborate on any data science-related projects
+# 👋 Hello World, I am Eugene. Welcome to my world of creation
+
+## First, a bit about me:
+- ✨ Currently a master's student in Public Health at McGill University
+- 👀 Interested in statistical inference in data science
+- 🌱 Currently learning machine learning and growing my stats muscles!
 - 📫 Reach me at eugenebaraka@gmail.com
 
 <!---
