@@ -1,6 +1,6 @@
 # 👋 Hello World, I am Eugene. Welcome to my world of creation
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://giphy.com/embed/M9gbBd9nbDrOTu1Mqx)" width="100"/>
 </div>
 
 ## First, a bit about me:
