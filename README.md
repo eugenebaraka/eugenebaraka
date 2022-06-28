@@ -1,4 +1,7 @@
 # 👋 Hello World, I am Eugene. Welcome to my world of creation
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 ## First, a bit about me:
 - ✨ Currently a master's student in Public Health at McGill University
