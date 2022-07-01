@@ -33,8 +33,10 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=eugenebaraka&theme=dark&background=000000)](https://git.io/streak-stats)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>                                                                                                                                      
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eugenebaraka&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) 
 
+### ✍️ Blog Posts
 
-          
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 
           
