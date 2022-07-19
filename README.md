@@ -41,4 +41,5 @@
 - [Why You Should Not Waste Your Twenties - Takeaways from The Defining Decade by Meg Jay](https://eugenebaraka.github.io/books/2022/03/22/the-defining-decade/)
 <!-- BLOG-POST-LIST:END -->
 
-          
+quick access: 
+[cheat.sh](https://cheat.sh)
