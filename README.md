@@ -43,3 +43,12 @@
 
 quick access:
 - [cheat.sh](https://cheat.sh)
+
+```
+p = ['deep', 'muted', 'pastel', 'bright', 'dark', 'color blind']
+for p in palettes:
+  sns.set_palette(p)
+  sns.palplot(sns.color_palette())
+  plt.show()
+
+```
