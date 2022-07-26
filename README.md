@@ -4,7 +4,7 @@
 ### 👨‍💻 About me
 - ✨ Currently a master's student in Public Health at McGill University
 - 👀 Interested in statistical inference in data science
-- 🌱 Currently learning machine learning and growing my stats muscles!
+- 🌱 Currently learning machine learning and flexing my stats muscles!
 - 📫 Reach me at eugenebaraka@gmail.com
 
 
