@@ -5,7 +5,16 @@
 - ✨ A master's student in Public Health at McGill University
 - 👀 Interested in statistics and math behind ML models
 - 🌱 Currently learning NLP and trying to survive school
-- 📫 Reach me at firstnamelastname@gmail.com
+
+### :wink: Connect with me
+<div id="Connect with me">
+  <a href="https://www.linkedin.com/in/ebaraka">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="http://www.twitter.com/eugene_barakaaa">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
 ### :hammer_and_wrench: Languages and Tools
 
@@ -21,18 +30,6 @@
 <!-- BLOG-POST-LIST:START -->
 - [Understanding Population Variance and Sample Variance Formulas](eugenebaraka.github.io/blog/demo-post)
 <!-- BLOG-POST-LIST:END -->
-
-
-### :wink: Connect with me
-<div id="Connect with me">
-  <a href="https://www.linkedin.com/in/ebaraka">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="http://www.twitter.com/eugene_barakaaa">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
-
 
 ### :fire: My Stats
 
