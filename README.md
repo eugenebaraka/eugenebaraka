@@ -28,7 +28,7 @@
 ### ✍️ Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Population Variance and Sample Variance Formulas](eugenebaraka.github.io/blog/demo-post)
+- [Understanding Population Variance and Sample Variance Formulas](eugenebaraka.github.io/blog/variance)
 <!-- BLOG-POST-LIST:END -->
 
 ### :fire: My Stats
