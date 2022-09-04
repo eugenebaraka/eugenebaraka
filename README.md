@@ -28,7 +28,7 @@
 ### ✍️ Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Population Variance and Sample Variance Formulas](eugenebaraka.github.io/blog/variance)
+- [Why You Should Not Waste Your Twenties - Takeaways from The Defining Decade by Meg Jay](https://eugenebaraka.github.io/readings/books/2022/03/22/definingdecade.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### :fire: My Stats
