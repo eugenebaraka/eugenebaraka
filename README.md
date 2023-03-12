@@ -2,9 +2,9 @@
 ## :wave: Hi, welcome to my world of creation
 
 ### 👨‍💻 About me
-- ✨ A master's student in Public Health at McGill University
-- 👀 Interested in statistics and math behind ML models
-- 🌱 Currently learning NLP and trying to survive school
+- ✨ A public health professional at heart
+- 👀 A statistician who loves machine learning
+- 🌱 Currently learning NLP and working on a cool webscrapping tool!
 
 ### :wink: Connect with me
 <div id="Connect with me">
@@ -40,11 +40,11 @@
 quick access:
 - [cheat.sh](https://cheat.sh)
 
-```
+<!-- ```
 p = ['deep', 'muted', 'pastel', 'bright', 'dark', 'color blind']
 for p in palettes:
   sns.set_palette(p)
   sns.palplot(sns.color_palette())
   plt.show()
 
-```
+``` -->
