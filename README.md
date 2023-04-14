@@ -11,9 +11,11 @@
   <a href="https://www.linkedin.com/in/ebaraka">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <!-- 
   <a href="http://www.twitter.com/eugene_barakaaa">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+  </a> 
+  -->
 </div>
 
 ### :hammer_and_wrench: Languages and Tools
@@ -28,8 +30,9 @@
 ### ✍️ Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+<!--  
 - [Book Recommendation: Atomic Habits by James Clear](https://eugenebaraka.github.io/readings/books/2022/04/15/Atomic_Habits.html)
-- [Why You Should Not Waste Your Twenties - Takeaways from The Defining Decade by Meg Jay](https://eugenebaraka.github.io/readings/books/2022/03/22/definingdecade.html)
+- [Why You Should Not Waste Your Twenties - Takeaways from The Defining Decade by Meg Jay](https://eugenebaraka.github.io/readings/books/2022/03/22/definingdecade.html) -->
 <!-- BLOG-POST-LIST:END -->
 
 ### :fire: My Stats
