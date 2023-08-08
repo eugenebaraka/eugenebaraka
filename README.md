@@ -29,15 +29,15 @@
 
 <!--### ✍️ Blog Posts -->
 
-<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:START 
 - [Book Recommendation: Atomic Habits by James Clear](https://eugenebaraka.github.io/readings/books/2022/04/15/Atomic_Habits.html)
-- [Why You Should Not Waste Your Twenties - Takeaways from The Defining Decade by Meg Jay](https://eugenebaraka.github.io/readings/books/2022/03/22/definingdecade.html)
+- [Why You Should Not Waste Your Twenties - Takeaways from The Defining Decade by Meg Jay](https://eugenebaraka.github.io/readings/books/2022/03/22/definingdecade.html) -->
 <!-- BLOG-POST-LIST:END -->
 
 <!--### :fire: My Stats
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=eugenebaraka&theme=dark&background=000000)](https://git.io/streak-stats)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>                                                                                                                                      
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eugenebaraka&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=eugenebaraka&theme=dark&background=000000)](https://git.io/streak-stats)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> -->                                                                                                                                      
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eugenebaraka&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) 
 
 <!-- 
 quick access:
