@@ -32,6 +32,7 @@
 <!-- BLOG-POST-LIST:START 
 - [Book Recommendation: Atomic Habits by James Clear](https://eugenebaraka.github.io/readings/books/2022/04/15/Atomic_Habits.html)
 - [Why You Should Not Waste Your Twenties - Takeaways from The Defining Decade by Meg Jay](https://eugenebaraka.github.io/readings/books/2022/03/22/definingdecade.html) -->
+- [Today I learned #1](https://eugenebaraka.github.io/blog/2024/09/03/Today-I-learned.html)
 - [Another Shot at Blogging](https://eugenebaraka.github.io/blog/2024/08/14/Another-Shot-at-Blogging.html)
 <!-- BLOG-POST-LIST:END -->
 
