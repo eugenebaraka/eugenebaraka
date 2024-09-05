@@ -32,8 +32,10 @@
 <!-- BLOG-POST-LIST:START 
 - [Book Recommendation: Atomic Habits by James Clear](https://eugenebaraka.github.io/readings/books/2022/04/15/Atomic_Habits.html)
 - [Why You Should Not Waste Your Twenties - Takeaways from The Defining Decade by Meg Jay](https://eugenebaraka.github.io/readings/books/2022/03/22/definingdecade.html) -->
+- [2024 09 04 Reverting A Git Repository To Its Original State](https://eugenebaraka.github.io/blog/2024/09/04/2024-09-04-Reverting-a-Git-Repository-to-Its-Original-State.html)
 - [Today I learned #1](https://eugenebaraka.github.io/blog/2024/09/03/Today-I-learned.html)
 - [Another Shot at Blogging](https://eugenebaraka.github.io/blog/2024/08/14/Another-Shot-at-Blogging.html)
+- [Understanding Population Variance and Sample Variance Formulas](https://eugenebaraka.github.io/blog/2022/07/03/variance-explained.html)
 <!-- BLOG-POST-LIST:END -->
 
 <!--### :fire: My Stats
